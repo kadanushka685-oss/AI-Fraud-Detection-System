@@ -413,3 +413,27 @@ The 75 non-UI tests were run through a small stand-in runner in the build enviro
 - **Screenshots.** None were captured (see the Screenshots section).
 
 Before relying on the application, run `python -m pytest -v` and `streamlit run app.py` on your own machine and check each page.
+
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Fraud Prediction
+![Fraud Prediction](screenshots/fraud-prediction.png)
+
+### Batch CSV Analysis
+![Batch Analysis](screenshots/batch-analysis.png)
+
+### Analytics
+![Analytics](screenshots/analytics1.png)
+![Analytics](screenshots/analytics2.png)
+![Analytics](screenshots/analytics3.png)
+![Analytics](screenshots/analytics4.png)
+![Analytics](screenshots/analytics5.png)
+
+### Transaction History
+![Transaction History](screenshots/transaction-history.png)
+
+### About Project
+![About Project](screenshots/about-project.png)
